@@ -1,0 +1,51 @@
+[
+    {
+        "id": 123,
+        "nom": "Tomb Raider",
+        "type": "jeu-video",
+        "prix": 29.99,
+        "quantite": 3
+    },
+    {
+        "id": 124,
+        "nom": "Robocop",
+        "type": "film",
+        "prix": 9.99,
+        "quantite": 5
+    },
+    {
+        "id": 125,
+        "nom": "Breaking Bad",
+        "type": "tele-serie",
+        "prix": 35.99,
+        "quantite": 0
+    },
+    {
+        "id": 126,
+        "nom": "Captain Phillips",
+        "type": "film",
+        "prix": 27.99,
+        "quantite": 0
+    },
+    {
+        "id": 127,
+        "nom": "Sherlock",
+        "type": "tele-serie",
+        "prix": 29.99,
+        "quantite": 1
+    },
+    {
+        "id": 128,
+        "nom": "NHL 14",
+        "type": "jeu-video",
+        "prix": 59.99,
+        "quantite": 0
+    },
+    {
+        "id": 129,
+        "nom": "Lone Ranger",
+        "type": "film",
+        "prix": 20.99,
+        "quantite": 2
+    }
+]
